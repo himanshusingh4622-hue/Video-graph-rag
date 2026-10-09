@@ -46,8 +46,8 @@ Ollama installed and running.
 2. Clone & Install Dependencies
 
 Bash
-git clone https://github.com/yourusername/local-graphrag.git
-cd local-graphrag
+git clone https://github.com/himanshusingh4622-hue/Video-graph-rag.git
+cd Video-graph-rag
 pip install -r requirements.txt
 3. Pull Local Models
 
@@ -78,4 +78,4 @@ Step 3: Visualize
 Open RAG_MODEL/knowledge_graph.graphml in Gephi to see a visual map of your data.
 
 
-Created by Harshit Singh
+Created by [Himanshu kumar](https://github.com/himanshusingh4622-hue)
